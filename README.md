@@ -6,6 +6,8 @@ Portfolio-Optimizer
 ├─── Procfile.txt
 ├─── README.md
 ├─── requirements.txt
+├─── Dockerfile
+├─── Jenkinsfile
 ├─── setup.sh
 ├─── __init__.py
 │
